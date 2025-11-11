@@ -1,0 +1,5 @@
+# Copy this file to backend.tfvars and update with your values
+# cp backend.tfvars.example backend.tfvars
+
+bucket         = "your-s3-bucket-name"
+dynamodb_table = "your-dynamodb-table-name"
